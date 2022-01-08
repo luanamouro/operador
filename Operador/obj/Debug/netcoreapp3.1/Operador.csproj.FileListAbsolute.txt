@@ -1,0 +1,14 @@
+C:\imersao_logica\Operador\Operador\bin\Debug\netcoreapp3.1\Operador.exe
+C:\imersao_logica\Operador\Operador\bin\Debug\netcoreapp3.1\Operador.deps.json
+C:\imersao_logica\Operador\Operador\bin\Debug\netcoreapp3.1\Operador.runtimeconfig.json
+C:\imersao_logica\Operador\Operador\bin\Debug\netcoreapp3.1\Operador.runtimeconfig.dev.json
+C:\imersao_logica\Operador\Operador\bin\Debug\netcoreapp3.1\Operador.dll
+C:\imersao_logica\Operador\Operador\bin\Debug\netcoreapp3.1\Operador.pdb
+C:\imersao_logica\Operador\Operador\obj\Debug\netcoreapp3.1\Operador.csproj.AssemblyReference.cache
+C:\imersao_logica\Operador\Operador\obj\Debug\netcoreapp3.1\Operador.GeneratedMSBuildEditorConfig.editorconfig
+C:\imersao_logica\Operador\Operador\obj\Debug\netcoreapp3.1\Operador.AssemblyInfoInputs.cache
+C:\imersao_logica\Operador\Operador\obj\Debug\netcoreapp3.1\Operador.AssemblyInfo.cs
+C:\imersao_logica\Operador\Operador\obj\Debug\netcoreapp3.1\Operador.csproj.CoreCompileInputs.cache
+C:\imersao_logica\Operador\Operador\obj\Debug\netcoreapp3.1\Operador.dll
+C:\imersao_logica\Operador\Operador\obj\Debug\netcoreapp3.1\Operador.pdb
+C:\imersao_logica\Operador\Operador\obj\Debug\netcoreapp3.1\Operador.genruntimeconfig.cache
